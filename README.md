@@ -1,1 +1,0 @@
-# shdevops-24-hw
