@@ -8,4 +8,5 @@
 ## Задача 3
 <img width="795" height="240" alt="image" src="https://github.com/user-attachments/assets/10f7a879-efab-444a-a607-4b8de83d5a64" />
 
-<img width="550" height="84" alt="image" src="https://github.com/user-attachments/assets/fd52b676-21cb-44b0-aa00-94bce814f468" />
+<img width="804" height="259" alt="image" src="https://github.com/user-attachments/assets/b9c1e583-8437-49cb-a4c1-3610c75efd68" />
+
