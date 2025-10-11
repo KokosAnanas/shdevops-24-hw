@@ -5,5 +5,5 @@
 ## Задача 2
 <img width="994" height="618" alt="image" src="https://github.com/user-attachments/assets/5b64def9-4265-4ca5-9d35-1eacda3570b2" />
 
-
-
+## Задача 3
+<img width="795" height="240" alt="image" src="https://github.com/user-attachments/assets/10f7a879-efab-444a-a607-4b8de83d5a64" />
