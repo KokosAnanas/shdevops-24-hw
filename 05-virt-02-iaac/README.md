@@ -7,3 +7,5 @@
 
 ## Задача 3
 <img width="795" height="240" alt="image" src="https://github.com/user-attachments/assets/10f7a879-efab-444a-a607-4b8de83d5a64" />
+
+<img width="550" height="84" alt="image" src="https://github.com/user-attachments/assets/fd52b676-21cb-44b0-aa00-94bce814f468" />
