@@ -16,4 +16,6 @@ docker attach присоединяет наш терминал к главном
 ## Задача 4
 
 <img width="945" height="519" alt="image" src="https://github.com/user-attachments/assets/1263211f-4e00-442e-8184-a2d575a012cb" />
+<img width="1094" height="610" alt="image" src="https://github.com/user-attachments/assets/6ebe956b-d283-448b-88aa-151e199ad73a" />
+
 
