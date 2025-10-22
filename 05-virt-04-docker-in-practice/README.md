@@ -9,3 +9,9 @@
 ## Задача 3
 
 <img width="1006" height="955" alt="image" src="https://github.com/user-attachments/assets/12dc535e-e880-4516-9cfa-7c4853ce543a" />
+
+## Задача 4
+
+<img width="1747" height="979" alt="image" src="https://github.com/user-attachments/assets/9da70458-072d-49ca-9cfa-5e85a84af6c7" />
+
+<img width="1468" height="675" alt="image" src="https://github.com/user-attachments/assets/51d6663c-348b-456e-a445-a2f90f5cb769" />
