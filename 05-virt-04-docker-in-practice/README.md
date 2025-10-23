@@ -17,3 +17,8 @@
 https://github.com/KokosAnanas/shvirtd-example-python.git
 
 <img width="1468" height="675" alt="image" src="https://github.com/user-attachments/assets/51d6663c-348b-456e-a445-a2f90f5cb769" />
+
+## Задача 6
+
+<img width="742" height="564" alt="image" src="https://github.com/user-attachments/assets/952378a0-4831-44f2-a64e-3987b9ea38a8" />
+
